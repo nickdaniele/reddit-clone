@@ -1,6 +1,6 @@
 # reddit-clone
 
-The Project was an exercise in replicating the recursive comment system found on reddit.
+The Project was an exercise in replicating the recursive comment system found on reddit. You are able to create, edit and delete comments both at the top level and on the post itself as well as on individual comments.
 
 Given more time the next steps I would take are as follows:  
 - Refactor / Reuse of similar logic found in reply, edit, and submit sections.
