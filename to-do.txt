@@ -1,0 +1,12 @@
+X 1. Title of post should be visible.
+X 2. Poster username should be visible.
+X 3. Image should be visible.
+X 4. Comments section should be visible.
+X 5. Individual Comment should be visible.
+X 6. Individual Comment should have have username.
+X 7. Individual Comment should have text.
+X 8. Individual Comment should be editable.
+X 9. Individual Comment should be delete-able.
+X 10. Individual Comment should have sub-comments.
+X 11. Sub-comments should have sub posts.
+12. App should match required styling.
