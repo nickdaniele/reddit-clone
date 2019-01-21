@@ -1,5 +1,14 @@
 # reddit-clone
 
+The Project was an exercise in replicating the recursive comment system found on reddit.
+
+Given more time the next steps I would take are as follows:  
+- Refactor / Reuse of similar logic found in reply, edit, and submit sections.
+- Implementation of upvote / down vote behavior with automatic re-sorting.
+- Implementation of better random id generator.
+- Post lock / unlock functionality
+- Further Styling.
+
 ## Project setup
 ```
 npm install
